@@ -2,7 +2,7 @@
   "name": "ai-tools",
   "version": "1.0.0",
   "description": "A collection of tools for enhancing Adobe Illustrator JSX scripts",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "make test"
   },
