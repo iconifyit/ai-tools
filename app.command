@@ -1,0 +1,1 @@
+#!/bin/bashecho "Un-zipping META file"node /Users/scott/github/iconify/ai-tools/app.js

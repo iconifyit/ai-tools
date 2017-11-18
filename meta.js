@@ -1,0 +1,1 @@
+module.exports = {"inputfile":"/Users/scott/Desktop/avatars-iconjar/Iconjar-avatars/soccer.iconjar/META","outputfile":"/Users/scott/Desktop/avatars-iconjar/Iconjar-avatars/META.json"}
