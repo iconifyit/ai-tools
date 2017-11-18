@@ -4,7 +4,7 @@ var fs   = require('fs');
 var scan = require('./lib/scan');
 var zlib = require('zlib');
 
-var meta = require('./meta');
+var meta = require('./var/meta');
 
 console.log('Creating zlib Unzip');
 var unzip  = zlib.createUnzip();
