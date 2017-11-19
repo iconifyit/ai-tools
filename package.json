@@ -29,7 +29,6 @@
   "homepage": "https://github.com/iconifyit/ai-tools#readme",
   "dependencies": {
     "bufferstream": "^0.6.2",
-    "recursive-readdir": "^2.2.1",
     "zlib": "^1.0.5"
   },
   "devDependencies": {
