@@ -1,7 +1,6 @@
 #! /usr/local/bin/node
 
 var fs   = require('fs');
-var scan = require('./lib/scan');
 var zlib = require('zlib');
 
 var meta = require('./var/meta');
